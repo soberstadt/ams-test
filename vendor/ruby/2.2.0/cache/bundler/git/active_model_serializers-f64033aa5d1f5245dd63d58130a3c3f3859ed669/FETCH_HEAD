@@ -1,0 +1,29 @@
+7e2051a369c00b2bab5fc0191afaa4a0133b2dfb		branch '0-8-stable' of git://github.com/rails-api/active_model_serializers
+c89569855a899ae3c76c58ebdf22e0cc6283a90f		branch '0-9-2' of git://github.com/rails-api/active_model_serializers
+a105c603c4169375d3664ebef79846caa8e80902		branch '0-9-stable' of git://github.com/rails-api/active_model_serializers
+589a5806ab06db4baeac3540241ef5d359e50a79		branch 'add-issue-stats' of git://github.com/rails-api/active_model_serializers
+7afdad8c1791d44ffe44b5551fba832dc06c0e13		branch 'appveyor' of git://github.com/rails-api/active_model_serializers
+58ff7535b7d619028d542f49831d43504b5d89be		branch 'master' of git://github.com/rails-api/active_model_serializers
+ca1e1b4b55b7636ffeb0b8382c1370c2b94e8ab3		branch 'refactor' of git://github.com/rails-api/active_model_serializers
+f2b44d3824fceb92596754892f654a578dfa9e1f		branch 'revert-1120-master' of git://github.com/rails-api/active_model_serializers
+8d3595a1d062cf798bc2ac6d775fdd68daa36e81		branch 'revert-914-fix_904' of git://github.com/rails-api/active_model_serializers
+bf8c2659164246d296ff5919286f12920cd448da		branch 'test' of git://github.com/rails-api/active_model_serializers
+e16ab89a0e76379c6dfbb7f0351fc16a4cf18071	not-for-merge	tag '0.9.3' of git://github.com/rails-api/active_model_serializers
+41c582f814e835f89715cd63a22c82ab7ca1cbf7	not-for-merge	tag 'v0.10.0.rc1' of git://github.com/rails-api/active_model_serializers
+3fe238ff17f08036e41749f40d76521c421bdb33	not-for-merge	tag 'v0.10.0.rc2' of git://github.com/rails-api/active_model_serializers
+0587d08a1cd95b127c0915894fb1072870c36859	not-for-merge	tag 'v0.10.0.rc3' of git://github.com/rails-api/active_model_serializers
+c48f4bd0e566264bbd8f358e2bad062748ba59d9	not-for-merge	tag 'v0.5.0' of git://github.com/rails-api/active_model_serializers
+00194ec0e41831802fcbf893a34c0bb0853ebe14	not-for-merge	tag 'v0.5.1' of git://github.com/rails-api/active_model_serializers
+00194ec0e41831802fcbf893a34c0bb0853ebe14	not-for-merge	tag 'v0.5.2' of git://github.com/rails-api/active_model_serializers
+159f53447a389281e4f84613fbc269b9b7d3eaa5	not-for-merge	tag 'v0.6.0' of git://github.com/rails-api/active_model_serializers
+fc31239948583c298a26624e8e1e026ca057c010	not-for-merge	tag 'v0.7.0' of git://github.com/rails-api/active_model_serializers
+f13c93e97d540ed6a36d8f34558fc04d63f604a1	not-for-merge	tag 'v0.8.0' of git://github.com/rails-api/active_model_serializers
+ec2749cc980fe2b0c1c8282e24d9f7c1a44e94bd	not-for-merge	tag 'v0.8.1' of git://github.com/rails-api/active_model_serializers
+581c7c9d06704ffeae62f71139cbb593a8cee607	not-for-merge	tag 'v0.8.2' of git://github.com/rails-api/active_model_serializers
+57c04eae84418606fceb5a8db558985b3de6ac29	not-for-merge	tag 'v0.8.3' of git://github.com/rails-api/active_model_serializers
+28c25c842fe0927364de2b476c1da925d13acf34	not-for-merge	tag 'v0.9.0' of git://github.com/rails-api/active_model_serializers
+ffad0a209a5f830e1c12f686cc458eb9f0a30874	not-for-merge	tag 'v0.9.0.alpha1' of git://github.com/rails-api/active_model_serializers
+e33fbc5998c90dabba99901ae04131565e312a16	not-for-merge	tag 'v0.9.1' of git://github.com/rails-api/active_model_serializers
+97101f50c953bf7bd86c78b4d76b173a5c16e3b9	not-for-merge	tag 'v0.9.2' of git://github.com/rails-api/active_model_serializers
+d5d3be387a588680ec4da8e89a92f3e42f3d835c	not-for-merge	tag 'v0.9.3' of git://github.com/rails-api/active_model_serializers
+63befd0594e84c683205386b6be91a3c02025248	not-for-merge	tag 'v0.9.4' of git://github.com/rails-api/active_model_serializers
