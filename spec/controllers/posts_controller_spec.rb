@@ -8,7 +8,8 @@ describe PostsController, type: :controller do
       p
     end
 
-    it 'with includes' do
+    it 'with json_api' do
+      ActiveModelSerializers.config.adapter = :json_api
       get :show, id: post.id, format: :json, include: 'comments'
       json = JSON.parse(response.body)
       expect(json['data']['relationships']['comments']['data'].length).to be 1
@@ -16,7 +17,19 @@ describe PostsController, type: :controller do
       get :show, id: post.id, include: ''
       json = JSON.parse(response.body)
       relationships = json['data'].try(:[], 'relationships') || {}
+      # this fails
       expect(relationships).to_not include 'comments'
+    end
+
+    it 'with json adapter' do
+      ActiveModelSerializers.config.adapter = :json
+      get :show, id: post.id, format: :json, include: 'comments'
+      json = JSON.parse(response.body)
+      expect(json['post']['comments'].length).to be 1
+
+      get :show, id: post.id, include: ''
+      json = JSON.parse(response.body)
+      expect(json['post']).to_not include 'comments'
     end
   end
 end
